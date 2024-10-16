@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Heightweight
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothin
-- 💞️ I’m looking to collaborate on literally nothing
-- 📫 How to reach me 
+- 👀 I’m interested in functional programming
+- 🌱 I’m currently learning how to write compilers
+- 💞️ I’m looking to collaborate on cryptography projects
+- 📫 How to reach me: usually via Discord 
 
-do not <3
 
 
 <!---
